@@ -14,4 +14,5 @@ If you have suggestions and ideas to this project, comment in the section below.
 
 ## Moderators
 Tiago Satur
+
 [Getúlio Ferreira](https://github.com/gferreiraa)

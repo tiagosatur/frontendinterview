@@ -10,3 +10,8 @@ If you have suggestions and ideas to this project, comment in the section below.
 * Check the [grammar](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * When you make the Pull Request, check for conflicts
 * Review your text carefully
+
+
+## Moderators
+Tiago Satur
+[Getúlio Ferreira](https://github.com/gferreiraa)
